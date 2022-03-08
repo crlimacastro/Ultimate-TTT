@@ -1,4 +1,4 @@
-# Rich Media Project 2
+# Ultimate Tic Tac Toe
 
 ## Documentation
 
